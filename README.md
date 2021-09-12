@@ -8,5 +8,6 @@ Honestly, it is a struggle in this assessment. The like is finally get the basic
 (4) Regardless of having the logic in mind, very hard to put them down into code due to lack in understanding the fundamental of Java structure.
 (5) The pace of introducing composition classes, Map, List are too fast, thus had difficulties in understanding the whole coding in the assessment package when we are still not familiar with the many syntax used in the code. 
 ## What would make your experience with this assessment better?
-(1) Good to differentiate the attributes and parameter and method name by different name in each classes when first learning the syntax and understand the flow well before introduce the industry's practices.
-(2) Need to have more expanation on the composition classes syntax and how to connect their relationship. More practice needed.
+###(1) Good to differentiate the attributes and parameter and method name by different name in each classes when first learning the syntax and understand the flow well before introduce the industry's practices.
+(2) Need to have more explanation on the composition classes syntax and how to connect their relationship. 
+(3)More practice needed.
