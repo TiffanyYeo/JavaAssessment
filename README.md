@@ -1,6 +1,6 @@
 # JavaAssessment
 ## What did you like about this project?
-Honestly, it is a struggle in this assessment. The like is finally get the basic code working. Hope can improve it further with validation.
+Honestly, it is a struggle in this assessment. The like is finally get the basic code working. Hope can improve it further with validation. This assessment is a good study material for revision and explore to make it better.
 ## What did you struggle with this project?
 (1) Confusion with the relationship and referencing between classes, objects & methods
 (2) Lacking in understanding the syntax to link & call classes and methods among the different classes.
